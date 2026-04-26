@@ -1,0 +1,9 @@
+/* TEAM */
+  AI Quick Translate (malik.co)
+  Contact: queue.transmute [at] gmail.com
+
+/* SITE */
+  Last update: 2026-04-26
+  Standards: HTML5, CSS3
+  Components: vanilla HTML/CSS, no framework
+  Hosted on: GitHub Pages

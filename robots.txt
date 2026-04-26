@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Help crawlers find the sitemap
+Sitemap: https://umarnisar1.github.io/-Image-PDF-Translator-Pro/sitemap.xml

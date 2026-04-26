@@ -1,0 +1,19 @@
+{
+  "name": "AI Quick Translate",
+  "short_name": "Quick Translate",
+  "description": "AI-powered translator for Android — text, voice, PDFs, Office docs, e-books, audio, and images in 100+ languages.",
+  "start_url": "/-Image-PDF-Translator-Pro/",
+  "scope": "/-Image-PDF-Translator-Pro/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6600",
+  "lang": "en",
+  "categories": ["productivity", "utilities", "education"],
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

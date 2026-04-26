@@ -1,0 +1,20 @@
+# Tell Jekyll to do as little as possible. We're shipping plain HTML/CSS.
+# theme: "" (empty string, NOT null) is what reliably overrides the GitHub
+# Pages default `jekyll-theme-primer`, which otherwise injects a phantom
+# assets/css/style.scss and crashes the build.
+
+theme: ''
+plugins: []
+markdown: kramdown
+
+# Pass through everything as-is — don't try to render our HTML through Liquid
+# (no front matter = static file in Jekyll's eyes, but force it anyway).
+include:
+  - .nojekyll
+
+exclude:
+  - README.md
+  - _config.yml
+  - Gemfile
+  - Gemfile.lock
+  - vendor
